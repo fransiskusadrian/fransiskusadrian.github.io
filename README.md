@@ -29,5 +29,7 @@ The director of marketing has assigned you to answer: How do annual members and 
 #### Dataset
 Previous 12 months of Cyclistic trip data
 
-#### Data Analysis Process
-The data consisted of 12 files containing more than 5 million records of ride histories from November 2020 to October 2021. Then, I combine all the data into one single big data frame and then I cleaned up the data and add some new columns for later analysis. Some of the cleaning process that I do was check and remove for duplicates, check and remove bad data. So, at the end I have 4,433,475 records and 19 fields.
+#### Analysis Process
+The data consisted of 12 files containing more than 5 million records of ride histories from November 2020 to October 2021. The fields consist of id, bike type, start time, end time, start station name, start station id, end station name, end station id, start latitude, start longitude, end latitude, end longitude and customer type. Then, I combine all the data into one single file. Then, I cleaned up all the data and add some new columns for later analysis. Some of the cleaning process that I do was to remove unnecessary columns, remove missing values, trim all cells that have excess spaces, remove duplicates, remove bad data and make all data types consistent. So, at the end I have 4,433,475 records and 19 fields.
+
+#### Findings
