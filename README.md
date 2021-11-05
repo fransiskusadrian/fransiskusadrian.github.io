@@ -3,7 +3,7 @@
 <br> Hello, my name is Fransiskus Adrian. Welcome to my portfolio website :)
 <br><br>
 <br>**MY PROJECTS**
-<br><br>
+<br>
 <br>5 November 2021
 <br>
 <br>Google Data Analytics Professional Certificate Capstone Project
