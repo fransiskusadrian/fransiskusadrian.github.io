@@ -1,4 +1,4 @@
-Linkedin: [linkedin.com/in/fransiskusadrian](https://id.linkedin.com/in/fransiskusadrian)
+**Linkedin: [linkedin.com/in/fransiskusadrian](https://id.linkedin.com/in/fransiskusadrian)**
 <br>
 <br> Hello, my name is Fransiskus Adrian. Welcome to my portfolio website :)
 <br><br>
