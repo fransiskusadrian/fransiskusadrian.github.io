@@ -1,3 +1,5 @@
+31 October 2021
+
 # Case Study: How Does a Bike-Share Navigate Speedy Success?
 
 #### Summary
