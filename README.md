@@ -3,12 +3,11 @@
 <br> Hello, my name is Fransiskus Adrian. Welcome to my portfolio website :)
 <br><br>
 <br>**MY PROJECTS**
+<br>[Case Study: How Does a Bike-Share Navigate Speedy Success?](https://github.com/fransiskusadrian/fransiskusadrian.github.io#case-study-how-does-a-bike-share-navigate-speedy-success)
 <br>
-<br>5 November 2021
 <br>
-<br>Google Data Analytics Professional Certificate Capstone Project
-
 # Case Study: How Does a Bike-Share Navigate Speedy Success?
+5 November 2021, _Google Data Analytics Professional Certificate Capstone Project_
 
 #### Scenario
 You are a junior data analyst working in the marketing analyst team at Cyclistic, a fictional bike-share company in Chicago.
