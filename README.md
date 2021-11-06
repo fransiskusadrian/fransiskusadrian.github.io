@@ -38,7 +38,7 @@ Statistical data of numeric data:
 
 ![descriptive_analysis_2](docs/assets/descriptive_analysis_2.png)
 
-From the statistical data we can conclude that there are outliers that might skew the result, thus to count the average we will use the median instead of the mean because the median is less sensitive to outliers. [_( Full Analysis Process )_](docs/assets/cyclistic-bike-share_ver-github.ipynb)
+From the statistical data we can conclude that there are outliers that might skew the result, thus to count the average we will use the median instead of the mean because the median is less sensitive to outliers. [_( Full Analysis Process )_](https://github.com/fransiskusadrian/fransiskusadrian.github.io/blob/main/docs/assets/cyclistic-bike-share_ver-github.ipynb)
 
 #### Findings
 From 4,433,475 number of rides in the past 12 months, 54.7% of it was made by Cyclistic members and 45.3% of it was made by casual riders.
@@ -47,7 +47,7 @@ From 4,433,475 number of rides in the past 12 months, 54.7% of it was made by Cy
 
 The chart below shows that the most commom trip duration is six minutes long and how Cyclistic members dominated the short trip duration while casual riders dominated the long trip duration.
 
-![total_number_of_rides_based_on_ride_duration_in_minute_per_member_type](docs/assets/total_number_of_rides_based_on_ride_duration_in_minute_per_member_type.png)
+![total_number_of_rides_based_on_ride_duration_in_minute_per_member_type](https://github.com/fransiskusadrian/fransiskusadrian.github.io/blob/main/docs/assets/cyclistic-bike-share_ver-github.ipynb)
 
 On average the trip duration for Cyclistic members is 10 minutes long and casual riders is 17 minutes long, which means casual riders use Cyclistic bike longer even almost twice longer than the annual members usually use Cyclistic bike.
 
@@ -104,7 +104,7 @@ In the past 12 months, annual members use Cyclistic bike more often than casual 
 Python and Jupyter Notebook 
 
 #### End of Project
-For full analysis process in Jupyter Notebook, please go [here](docs/assets/cyclistic-bike-share_ver-github.ipynb).
+For full analysis process in Jupyter Notebook, please go [here](https://github.com/fransiskusadrian/fransiskusadrian.github.io/blob/main/docs/assets/cyclistic-bike-share_ver-github.ipynb).
 
 #### Author
 [Fransiskus Adrian](https://id.linkedin.com/in/fransiskusadrian)
