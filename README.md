@@ -1,10 +1,9 @@
 **[linkedin.com/in/fransiskusadrian](https://id.linkedin.com/in/fransiskusadrian)**
 <br>
 <br> Hello, my name is Fransiskus Adrian. Welcome to my portfolio website :)
-<br><br>
-<br>**MY PROJECTS**
-<br>[Case Study: How Does a Bike-Share Navigate Speedy Success?](https://github.com/fransiskusadrian/fransiskusadrian.github.io#case-study-how-does-a-bike-share-navigate-speedy-success)
 <br>
+<br>
+<br>**MY PROJECTS**
 <br>
 # Case Study: How Does a Bike-Share Navigate Speedy Success?
 5 November 2021, _Google Data Analytics Professional Certificate Capstone Project_
@@ -27,7 +26,7 @@ The director of marketing has assigned you to answer: How do annual members and 
 Previous 12 months of Cyclistic trip data. The data consisted of 12 files containing more than 5 million records of ride histories from November 2020 to October 2021. The fields consist of ride id, ride start time, ride end time, ride start station name, ride start station id, ride end station name, ride end station id, ride start latitude, ride start longitude, ride end latitude, ride end longitude, type of bike and customer type.
 
 #### Analysis Process
-I combine all the data into one single file. Then, I cleaned up all the data and add some new columns for later analysis. Some of the cleaning process that I do was to remove unnecessary columns, remove missing values, trim all cells that have excess spaces, remove duplicates, make all data type consistent and remove bad data. The data has been processed to remove trips that are taken by staff as they service and inspect the system; and any trips that were below 60 seconds in length (potentially false starts or users trying to re-dock a bike to ensure it was secure). So, at the end I have 4,433,475 records and 19 fields. [_( Full Analysis Process )_](docs/assets/cyclistic-bike-share_ver-github.ipynb)
+I combine all the data into one single file. Then, I cleaned up all the data and add some new columns for later analysis. Some of the cleaning process that I do was to remove unnecessary columns, remove missing values, trim all cells that have excess spaces, remove duplicates, make all data type consistent and remove bad data. The data has been processed to remove trips that are taken by staff as they service and inspect the system; and any trips that were below 60 seconds in length (potentially false starts or users trying to re-dock a bike to ensure it was secure). So, at the end I have 4,433,475 records and 19 fields. [_( Full Analysis Process )_](url)
 
 #### Descriptive Analysis
 Statistical data of non-numeric data:
@@ -38,7 +37,7 @@ Statistical data of numeric data:
 
 ![descriptive_analysis_2](docs/assets/descriptive_analysis_2.png)
 
-From the statistical data we can conclude that there are outliers that might skew the result, thus to count the average we will use the median instead of the mean because the median is less sensitive to outliers. [_( Full Analysis Process )_](https://github.com/fransiskusadrian/fransiskusadrian.github.io/blob/main/docs/assets/cyclistic-bike-share_ver-github.ipynb)
+From the statistical data we can conclude that there are outliers that might skew the result, thus to count the average we will use the median instead of the mean because the median is less sensitive to outliers. [_( Full Analysis Process )_](url)
 
 #### Findings
 From 4,433,475 number of rides in the past 12 months, 54.7% of it was made by Cyclistic members and 45.3% of it was made by casual riders.
@@ -47,7 +46,7 @@ From 4,433,475 number of rides in the past 12 months, 54.7% of it was made by Cy
 
 The chart below shows that the most commom trip duration is six minutes long and how Cyclistic members dominated the short trip duration while casual riders dominated the long trip duration.
 
-![total_number_of_rides_based_on_ride_duration_in_minute_per_member_type](https://github.com/fransiskusadrian/fransiskusadrian.github.io/blob/main/docs/assets/cyclistic-bike-share_ver-github.ipynb)
+![total_number_of_rides_based_on_ride_duration_in_minute_per_member_type](docs/assets/total_number_of_rides_based_on_ride_duration_in_minute_per_member_type.png)
 
 On average the trip duration for Cyclistic members is 10 minutes long and casual riders is 17 minutes long, which means casual riders use Cyclistic bike longer even almost twice longer than the annual members usually use Cyclistic bike.
 
@@ -104,7 +103,7 @@ In the past 12 months, annual members use Cyclistic bike more often than casual 
 Python and Jupyter Notebook 
 
 #### End of Project
-For full analysis process in Jupyter Notebook, please go [here](https://github.com/fransiskusadrian/fransiskusadrian.github.io/blob/main/docs/assets/cyclistic-bike-share_ver-github.ipynb).
+For full analysis process in Jupyter Notebook, please go [here](url).
 
 #### Author
 [Fransiskus Adrian](https://id.linkedin.com/in/fransiskusadrian)
