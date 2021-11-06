@@ -62,8 +62,12 @@ On average the trip duration for Cyclistic members is 10 minutes long and casual
 
 For all users, the peak trip start time is around 5 p.m. and the through start time is around 3 a.m. to 4 a.m. 
 
-![total_number_of_rides_by_each_start_hour](docs/assets/total_number_of_rides_by_each_start_hour.png)
+![total_number_of_rides_by_each_start_hour_per_member_type](docs/assets/total_number_of_rides_by_each_start_hour_per_member_type.png)
 
 The chart below shows that the Cyclistic members most often used Cyclistic bike before and after the regular working hours, around 8 a.m., 12 a.m. and 5 p.m., which indicating that Cyclistic members may use Cyclistic bike for commuting to and from work.
 
 ![total_number_of_rides_based_on_weekday-weekend_by_start_hour_per_member_type](docs/assets/total_number_of_rides_based_on_weekday-weekend_by_start_hour_per_member_type.png)
+
+Cyclistic bike is most often used on Saturday and Cyclistic members more likely to take rides on weekdays while casual riders on weekends.
+
+![total_number_of_rides_by_each_day_per_member_type](docs/assets/total_number_of_rides_by_each_day_per_member_type.png)
