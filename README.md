@@ -12,7 +12,9 @@
 <br>
 # Case Study: How Does a Bike-Share Navigate Speedy Success?
 5 November 2021, _Google Data Analytics Professional Certificate Capstone Project_
-
+<br>
+<br>![cyclistic_logo](docs/assets/pictures/cyclistic_logo.png)
+<br>
 #### Scenario
 You are a junior data analyst working in the marketing analyst team at Cyclistic, a fictional bike-share company in Chicago.
 
