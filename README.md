@@ -12,4 +12,4 @@
 <br>
 <br>
 **[Python Project: How do annual members and casual riders use Cyclistic Bike-Share bikes differently?](https://github.com/fransiskusadrian/fransiskusadrian.github.io/blob/main/PythonProject.md#python-project-how-do-annual-members-and-casual-riders-use-cyclistic-bike-share-bikes-differently)**
-<br>Analyze historical bike trip data to identify trends and better understanding of annual members and casual riders cycling behavior. Findings are used to design marketing strategies aimed at converting casual riders into annual members.
+<br>Analyze historical bike trip data to identify trends and better understanding of annual members and casual riders cycling behavior. Findings are used to design marketing strategies aimed at converting casual riders into annual members. [_( Full Analysis Result )_](https://github.com/fransiskusadrian/fransiskusadrian.github.io/blob/main/PythonProject.md#python-project-how-do-annual-members-and-casual-riders-use-cyclistic-bike-share-bikes-differently)
