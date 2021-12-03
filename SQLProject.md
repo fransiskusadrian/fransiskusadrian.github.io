@@ -28,7 +28,7 @@ The database contains three tables.
 <br>
 <br> ![businesses_founded_before_1000](docs/assets/pictures/businesses_founded_before_1000.png)
 <br>
-<br> Now we know, there are 6 other businesses that have been around for more than a millenium. We also know that the oldest, continuously operating company in the world is called Kongō Gumi. But was does that company do?
+<br> Now we know, there are 6 other businesses that have been around for more than a millennium. We also know that the oldest, continuously operating company in the world is called Kongō Gumi. But was does that company do?
 <br>
 <br> ![businesses_founded_before_1000_category](docs/assets/pictures/businesses_founded_before_1000_category.png)
 <br>
