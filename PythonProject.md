@@ -39,7 +39,7 @@ From 4,433,475 number of rides in the past 12 months, 54.7% of it was made by Cy
 
 ![total_number_of_rides_per_member_type](docs/assets/pictures/total_number_of_rides_per_member_type.png)
 
-The chart below shows that the most commom trip duration is six minutes long and how Cyclistic members dominated the short trip duration while casual riders dominated the long trip duration.
+The chart below shows that the most common trip duration is six minutes long and how Cyclistic members dominated the short trip duration while casual riders dominated the long trip duration.
 
 ![total_number_of_rides_based_on_ride_duration_in_minute_per_member_type](docs/assets/pictures/total_number_of_rides_based_on_ride_duration_in_minute_per_member_type.png)
 
